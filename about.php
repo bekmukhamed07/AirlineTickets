@@ -16,6 +16,7 @@ include "header.php";
 <img src="mpimages/15.jpg" width="160" height="180" />
 <br/>
 <img src="mpimages/swati.jpg" width="160" height="180" /></td>
+          <td valign="top" width="589"><ul>
             <li><strong>Project Information</strong>:</li>
             <ul>
               <li>This is a simple <strong>Tourism Project</strong> . It has been developed by <strong>prjecttunnel.com</strong> using <strong>PHP </strong>&amp; <strong>MySQL.</strong></li>
